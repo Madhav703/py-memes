@@ -13,7 +13,7 @@ You can clone the repo through this:
 
 ```bash
 git clone https://github.com/Madhav703/python-memes.git
-
+```
 
 1: Open the required directory:
 
